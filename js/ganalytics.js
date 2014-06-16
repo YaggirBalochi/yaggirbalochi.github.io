@@ -3,6 +3,5 @@
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-49838409-1', 'theunibal.github.io');
-  ga('require', 'displayfeatures');
+  ga('create', 'UA-51965342-1', 'yaggirbalochi.github.io');
   ga('send', 'pageview');
